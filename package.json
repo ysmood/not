@@ -1,0 +1,17 @@
+{
+  "name": "not",
+  "version": "1.0.0",
+  "description": "binary builder for not",
+  "bin": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nokit": "^0.27.5"
+  },
+  "pkg": {
+    "assets": "node_modules"
+  }
+}
